@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tomasz Cabaj
 - 👀 I’m interested in programming in languages such as C++ and Java
-- 🌱 I’m currently learning OpenGL, Selenium WebDriver, JUnit, TestNG
+- 🌱 I’m currently learning Angular, Spring, Selenium WebDriver, JUnit, TestNG and RestAssured
