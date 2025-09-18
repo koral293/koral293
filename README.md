@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Tomasz Cabaj
+- 👋 Hi, I’m Tomasz
 - 👀 I’m interested in programming in languages such as C++ and Java
 - 🌱 I’m currently learning Angular, Spring, Playwright, JUnit, TestNG and RestAssured
